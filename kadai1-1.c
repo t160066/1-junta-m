@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int f(int x) { return /* ここを埋める */; }
+int f(int x) { return x; }
 
 int main() {
     int x, y;
